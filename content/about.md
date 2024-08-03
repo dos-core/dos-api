@@ -1,6 +1,6 @@
 ---
-title: About
+title: About DOS core API
 type: about
 ---
 
-This is the about page.
+This site documents the DOS (Microsoft DOS) compatible API.
