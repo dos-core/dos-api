@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: DOS core API
 toc: false
 ---
 
-This is the landing page.
+The Application Programming Interface (API) used by DOS programs.  Only the core DOS functionality (kernel and command.com) interfaces are documented along with some core interaces that are implemented by additional drivers.  Application programs and utilities are not documented, see [FreeDOS help](https://help.fdos.org/) for general DOS usage information.
 
 ## Explore
 
@@ -14,4 +14,4 @@ This is the landing page.
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For additional information visit [FreeDOS site](http://www.freedos.org/).
